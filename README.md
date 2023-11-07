@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @m-saif
 - 👀 I’m interested in SD
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Guidance
 - 📫 How to reach me ...https://twitter.com/saifm885?t=k42ybxU4rgrXs5XU9eic2Q&s=08
 
 <!---
